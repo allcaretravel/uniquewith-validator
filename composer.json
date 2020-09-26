@@ -20,7 +20,7 @@
         "bossa/phpspec2-expect": "^3.0"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Felixkiss\\UniqueWithValidator\\": "src/"
         }
     },
@@ -31,5 +31,6 @@
             ]
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
