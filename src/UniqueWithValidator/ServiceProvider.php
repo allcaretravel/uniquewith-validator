@@ -12,7 +12,7 @@ class ServiceProvider extends BaseServiceProvider
     public function boot()
     {
         $this->loadTranslationsFrom(
-            __DIR__ . '/../../lang',
+            __DIR__ . '/../lang',
             'uniquewith-validator'
         );
 
