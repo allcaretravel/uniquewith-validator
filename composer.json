@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Felixkiss\\UniqueWithValidator\\": "src/"
+            "Felixkiss\\UniqueWithValidator\\": "src/Felixkiss/"
         }
     },
     "extra": {
